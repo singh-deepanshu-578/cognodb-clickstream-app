@@ -186,7 +186,8 @@ _(Full query definitions live in `backend/analytics/queries.py`.)_
 
 ## Live Demo
 
-- **Hosted app:**
+- **Hosted app:** https://cognodb-clickstream-app.vercel.app
+- **Backend API:** https://clickstream-backend.onrender.com/api
 - **Demo recording:**
 
 4. Generate requirements.txt for the backend (referenced in the README setup steps):
