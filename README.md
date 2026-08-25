@@ -178,9 +178,13 @@ _(Full query definitions live in `backend/analytics/queries.py`.)_
 
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
-![Visitors List](screenshots/visitors.png)
-![Visitor Detail](screenshots/visitor-detail.png)
+![Dashboard](screenshots/1.png)
+![Dashboard](screenshots/2.png)
+![Dashboard](screenshots/3.png)
+![Dashboard](screenshots/4.png)
+![Visitors](screenshots/5.png)
+![Visitor Details](screenshots/6.png)
+![Visitor Details](screenshots/7.png)
 
 ---
 
