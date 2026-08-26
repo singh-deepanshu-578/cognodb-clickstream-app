@@ -195,5 +195,8 @@ _(Full query definitions live in `backend/analytics/queries.py`.)_
 - **Demo recording:**
 
 4. Generate requirements.txt for the backend (referenced in the README setup steps):
+
+```bash
    cd backend
    pip freeze > requirements.txt
+```
